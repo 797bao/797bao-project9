@@ -12,3 +12,6 @@ src/TestFile.java
 
 src/TimeConverter.java
     - This class is used to display a neater output of the time
+
+resources/RUN.txt
+    - Brief comment on the results of the FHsort timings.
