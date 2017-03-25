@@ -1,0 +1,14 @@
+Project Description for 797bao-project09
+
+src/FHsort.java
+    - the Class that holds the quick sort method
+    - We will this class to sort an array of varying n size and incrementing of recursion limit values
+
+src/TestFile.java
+    - This class is used to test and input different values for FHsort quickSort method
+    - The class instantiates an array of random values of size arrayLength
+    - The recursion limit is incremented by 2 starting from 2 to 300
+    - The class times each array from each limit
+
+src/TimeConverter.java
+    - This class is used to display a neater output of the time
